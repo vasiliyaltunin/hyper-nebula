@@ -1,2 +1,2 @@
-![HyperNebula Logo](logo.png)
+![HyperNebula Logo](logo.webp)
 # Hyper Nebula
