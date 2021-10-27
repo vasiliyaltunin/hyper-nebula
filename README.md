@@ -1,1 +1,2 @@
-# hyper-nebula
+![HyperNebula Logo](logo.png)
+# Hyper Nebula
